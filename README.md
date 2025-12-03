@@ -107,27 +107,27 @@ Output:
 *Spam*
 
 
-**🎓 Use Cases
-🔐 Anti-spam filters
-📡 Telecom SMS filtering
-📱 Mobile security apps
-📊 Academic ML learning projects
-🛡️ Anti-phishing awareness systems
-🏆 Why SMSGuard?**
+**🎓 Use Cases**
+- 🔐 Anti-spam filters
+- 📡 Telecom SMS filtering
+- 📱 Mobile security apps
+- 📊 Academic ML learning projects
+- 🛡️ Anti-phishing awareness systems
+- 🏆 Why SMSGuard?
 
-**📌 High accuracy
-📌 Fast and lightweight
-📌 Real-world applicability
-📌 Clean modular code
-📌 Professional ML pipeline**
+- 📌 High accuracy
+- 📌 Fast and lightweight
+- 📌 Real-world applicability
+- 📌 Clean modular code
+- 📌 Professional ML pipeline
 
 # 🤝 Contributions
 ~ AYUSH
-Pull requests are welcome!
-If you find bugs or want new features, feel free to open an issue.
+- Pull requests are welcome!
+- If you find bugs or want new features, feel free to open an issue.
 
 ⭐ Support This Project
-If you like this repository, don’t forget to star ⭐ it on GitHub!
+- If you like this repository, don’t forget to star ⭐ it on GitHub!
 
 # 👨‍💻 Author
 # Ayush

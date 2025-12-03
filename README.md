@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/SMSGuard-Intelligent%20Spam%20SMS%20Detection-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h1 align="center">📱 SMSGuard – Intelligent Spam SMS Detection System</h1>
+<h1 align="center">📱💬 SMSGuard – Intelligent Spam SMS Detection System</h1>
 
 <p align="center">
   <b>A Machine Learning–powered solution to classify SMS messages as Spam or Ham using TF-IDF & SVM</b>
@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
 </p>
 
-## 📱💬 SMSGuard – Intelligent Spam SMS Detection System
 A Machine Learning–Powered SMS Spam Classification Project
 
 # 🚀 Project Overview
